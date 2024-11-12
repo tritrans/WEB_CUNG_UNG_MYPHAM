@@ -1,0 +1,396 @@
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.csproj.AssemblyReference.cache
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.csproj.CoreCompileInputs.cache
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\nhom10_CosmeticsShop.dll.config
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\nhom10_CosmeticsShop.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\nhom10_CosmeticsShop.pdb
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\csc.exe
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\csc.exe.config
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\csc.rsp
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\csi.exe
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\csi.rsp
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\System.AppContext.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\System.Collections.Immutable.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\System.IO.FileSystem.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\vbc.exe
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\vbc.exe.config
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\vbc.rsp
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\VBCSCompiler.exe
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\roslyn\VBCSCompiler.exe.config
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\Microsoft.Web.Infrastructure.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\Newtonsoft.Json.Bson.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\Newtonsoft.Json.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Buffers.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Memory.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Net.Http.Formatting.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Threading.Tasks.Extensions.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Web.Helpers.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Web.Http.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Web.Mvc.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Web.Razor.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Web.Webpages.Deployment.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Web.Webpages.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Web.Webpages.Razor.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\Newtonsoft.Json.xml
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\Newtonsoft.Json.Bson.pdb
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\Newtonsoft.Json.Bson.xml
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Buffers.xml
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Memory.xml
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Net.Http.Formatting.xml
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Threading.Tasks.Extensions.xml
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Web.Http.xml
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Web.Razor.xml
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Web.Webpages.xml
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Web.Webpages.Deployment.xml
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Web.Webpages.Razor.xml
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Web.Helpers.xml
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\System.Web.Mvc.xml
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.csproj.CopyComplete
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.dll
+D:\LAP_TRINH_WEB\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.pdb
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\nhom10_CosmeticsShop.dll.config
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\nhom10_CosmeticsShop.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\nhom10_CosmeticsShop.pdb
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csc.exe
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csc.exe.config
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csc.rsp
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csi.exe
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csi.rsp
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.AppContext.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.Collections.Immutable.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.IO.FileSystem.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\vbc.exe
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\vbc.exe.config
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\vbc.rsp
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\VBCSCompiler.exe
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\VBCSCompiler.exe.config
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Microsoft.Web.Infrastructure.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.Bson.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Buffers.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Memory.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Net.Http.Formatting.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Threading.Tasks.Extensions.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Helpers.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Http.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Mvc.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Razor.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.Deployment.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.Razor.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.Bson.pdb
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.Bson.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Buffers.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Memory.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Net.Http.Formatting.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Threading.Tasks.Extensions.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Http.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Razor.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.Deployment.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.Razor.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Helpers.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Mvc.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.csproj.AssemblyReference.cache
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.csproj.CoreCompileInputs.cache
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.csproj.CopyComplete
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.pdb
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\nhom10_CosmeticsShop.dll.config
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\nhom10_CosmeticsShop.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\nhom10_CosmeticsShop.pdb
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Buffers.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Memory.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.Bson.xml
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Buffers.xml
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Memory.xml
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.xml
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_C.D01568E2.Up2Date
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.dll
+C:\Users\Admin\Desktop\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.pdb
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\nhom10_CosmeticsShop.dll.config
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\nhom10_CosmeticsShop.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\nhom10_CosmeticsShop.pdb
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csc.exe
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csc.exe.config
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csc.rsp
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csi.exe
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csi.rsp
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.AppContext.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.Collections.Immutable.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.IO.FileSystem.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\vbc.exe
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\vbc.exe.config
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\vbc.rsp
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\VBCSCompiler.exe
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\VBCSCompiler.exe.config
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Microsoft.Web.Infrastructure.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.Bson.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Buffers.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Memory.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Net.Http.Formatting.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Threading.Tasks.Extensions.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Helpers.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Http.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Mvc.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Razor.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.Deployment.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.Razor.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.xml
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.Bson.pdb
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.Bson.xml
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Buffers.xml
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Memory.xml
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Net.Http.Formatting.xml
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Threading.Tasks.Extensions.xml
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Http.xml
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Razor.xml
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.xml
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.Deployment.xml
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.Razor.xml
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Helpers.xml
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Mvc.xml
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.csproj.AssemblyReference.cache
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.csproj.CoreCompileInputs.cache
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_C.D01568E2.Up2Date
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.dll
+D:\QuanBao\Learn\Năm 3_2024-2025\HK1\LapTrinh_Web\DoAn_LTWeb\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.pdb
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\nhom10_CosmeticsShop.dll.config
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\nhom10_CosmeticsShop.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\nhom10_CosmeticsShop.pdb
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csc.exe
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csc.exe.config
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csc.rsp
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csi.exe
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csi.rsp
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.AppContext.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.Collections.Immutable.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.IO.FileSystem.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\vbc.exe
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\vbc.exe.config
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\vbc.rsp
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\VBCSCompiler.exe
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\VBCSCompiler.exe.config
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Microsoft.Web.Infrastructure.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.Bson.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Buffers.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Memory.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Net.Http.Formatting.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Threading.Tasks.Extensions.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Helpers.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Http.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Mvc.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Razor.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.Deployment.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.Razor.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.xml
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.Bson.pdb
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.Bson.xml
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Buffers.xml
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Memory.xml
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Net.Http.Formatting.xml
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Threading.Tasks.Extensions.xml
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Http.xml
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Razor.xml
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.xml
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.Deployment.xml
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.Razor.xml
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Helpers.xml
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Mvc.xml
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.csproj.AssemblyReference.cache
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.csproj.CoreCompileInputs.cache
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.csproj.CopyComplete
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.dll
+D:\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.pdb
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\nhom10_CosmeticsShop.dll.config
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\nhom10_CosmeticsShop.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\nhom10_CosmeticsShop.pdb
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csc.exe
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csc.exe.config
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csc.rsp
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csi.exe
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\csi.rsp
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.AppContext.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.Collections.Immutable.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.IO.FileSystem.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\vbc.exe
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\vbc.exe.config
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\vbc.rsp
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\VBCSCompiler.exe
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\roslyn\VBCSCompiler.exe.config
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Microsoft.Web.Infrastructure.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.Bson.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Buffers.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Memory.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Net.Http.Formatting.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Threading.Tasks.Extensions.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Helpers.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Http.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Mvc.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Razor.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.Deployment.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.Razor.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.Bson.pdb
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Newtonsoft.Json.Bson.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Buffers.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Memory.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Net.Http.Formatting.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Threading.Tasks.Extensions.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Http.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Razor.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.Deployment.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Webpages.Razor.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Helpers.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\System.Web.Mvc.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.csproj.AssemblyReference.cache
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.csproj.CoreCompileInputs.cache
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_C.D01568E2.Up2Date
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.dll
+D:\LAP_TRINH_WEB\nhom_10_WebsiteCungcapmypham\nhom_10_WebsiteCungcapmypham\nhom10_CosmeticsShop\obj\Debug\nhom10_CosmeticsShop.pdb
